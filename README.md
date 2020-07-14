@@ -73,13 +73,13 @@
 
 5. While True:
 
-​     Main()
+   Main()
 
-​     sDict = saveDict(rawDict)
+   sDict = saveDict(rawDict)
 
  
 
-while 문을 통해 사용자로부터 옵션을 선택받는 main 함수를 계속 실행해준다. Main 함수에는 7가지의 옵션 함수들이 존재한다. main함수의 리턴값인 rawdict를 받아 평균과 학점의 추가정보를 가공한 sDict 로 저장해준 뒤, 새롭게 저장된 딕셔너리로 main함수를 다시 실행한다.
+   while 문을 통해 사용자로부터 옵션을 선택받는 main 함수를 계속 실행해준다. Main 함수에는 7가지의 옵션 함수들이 존재한다. main함수의 리턴값인 rawdict를 받아 평균과 학점의 추가정보를 가공한 sDict 로 저장해준 뒤, 새롭게 저장된 딕셔너리로 main함수를 다시 실행한다.
 
  
 
