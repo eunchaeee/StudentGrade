@@ -27,7 +27,7 @@
 
 > 구조차트 (structure chart)
 
-![structurechart.png]
+![](structurechart.png)
 
 
 
@@ -39,7 +39,7 @@
 
 
 
-![flowchart.png]
+![](flowchart.png)
 
 
 
