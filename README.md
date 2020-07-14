@@ -27,7 +27,7 @@
 
 > 구조차트 (structure chart)
 
-![](/Users/ddolchae/Desktop/스크린샷 2020-07-14 오후 5.32.52.png)
+![structurechart.png]
 
 
 
@@ -39,8 +39,7 @@
 
 
 
-![](/Users/ddolchae/Desktop/스크린샷 2020-07-14 오후 5.34.47.png)
-
+![flowchart.png]
 
 
 
