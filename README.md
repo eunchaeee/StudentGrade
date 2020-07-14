@@ -20,13 +20,11 @@
 - 종료하기 전, 파일 저장 여부를 물은 뒤 새로운 파일로 저장시켜준다.
 
 
-
-
-
+<br/><br/><br/>
 
 > 구조차트 (structure chart)
 
-
+<br/><br/>
 
 
 ![](structurechart.png)
@@ -37,22 +35,22 @@
 
 
 
-
+<br/><br/><br/>
 > FlowChart
 
 
 
-
+<br/><br/>
 
 ![](flowchart.png)
 
 
 
-
+<br/><br/>
 ### 프로그램 구조 및 설명
 
 
-'''
+<br/>
 먼저, if __name__ == ‘__main__’ : 부분에서부터 프로그램이 시작된다.
 
 파일을 불러온다.(default : students.txt)
@@ -84,4 +82,3 @@ while 문을 통해 사용자로부터 옵션을 선택받는 main 함수를 계
  
 
 7개의 함수인 # show, # search, # searchgrade, # changescore, # add, # remove, #quit 는 사용자의 입력에 따라 실행해준다.
-'''
